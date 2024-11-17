@@ -1,4 +1,5 @@
 # Analýza mezd, cen potravin a vlivu HDP
+(zpracována Radkou Štorchovou discord:radkastorchova)
 
 ## 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
