@@ -3,6 +3,7 @@
 ## 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 Od roku 2006 do roku 2018 vzrostly mzdy ve všech odvětvích. Nicméně je vidět, že mezi těmito lety byly i období, kdy průměrné mzdy klesaly (např. mezi lety 2012 a 2013 v peněžnictví a pojišťovnictví klesla průměrná mzda z 50 tisíc na necelých 46 tisíc).
+![obrazek](https://github.com/user-attachments/assets/da10367f-4867-40c7-829f-5781b99b3010)
 
 ---
 
