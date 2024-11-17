@@ -51,3 +51,7 @@ Mezi lety 2006 a 2018, při počítání průměrné mzdy nehledě na odvětví 
 
 V některých letech ceny potravin přímo reflektovaly růst (popř. pokles) HDP, například v letech **2009** a **2010**. Růst mezd koreloval se změnou HDP z předešlého roku.
 
+![obrazek](https://github.com/user-attachments/assets/7a03f059-6eb2-4695-b32c-492739d4006b)
+
+
+
